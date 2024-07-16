@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+/home/paula/Documents/BootcampDIO/M3_POO/trilha-java-basico/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
